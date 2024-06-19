@@ -52,3 +52,7 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Link to google document answers [Google Doc Link](https://docs.google.com/document/d/1WceKmc50SRs1u0Zl7uxVnvWm7X23dfgi7WMsj4mSeM4/edit?usp=sharing
+SETTING UP DEVELOPMENT ENVIRONMENT ASSIGNMENT(adh).pdf
+)
